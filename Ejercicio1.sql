@@ -32,3 +32,4 @@ SELECT * FROM caso WHERE id_estado_caso = 1;
 
 -- Punto 7: Borrar caso
 DELETE FROM caso WHERE numero_expediente = 1;
+-- Esto es para actualizar en git 
